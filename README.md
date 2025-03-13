@@ -47,6 +47,10 @@ Array
 
 
 ### Run the application with prod mode
+
+```
+php prodmode.php
+```
 ```
 Array
 (
