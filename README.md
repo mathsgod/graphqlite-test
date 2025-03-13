@@ -43,3 +43,17 @@ Array
 
 )
 ```
+
+
+
+### Run the application with prod mode
+```
+Array
+(
+    [data] => Array
+        (
+            [test] => Hello, World!
+        )
+
+)
+```
